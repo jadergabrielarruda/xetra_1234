@@ -8,6 +8,9 @@ pandas = "*"
 awscli = "*"
 jupyter = "*"
 pyarrow = "*"
+pyyaml = "*"
+pylint = "*"
+moto = "*"
 
 [dev-packages]
 
